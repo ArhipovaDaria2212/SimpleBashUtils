@@ -1,0 +1,5 @@
+In this project you will learn and develop basic Bash utilities 
+for working with C programming language texts. 
+These Utilities (cat and grep) are often used in the Linux terminal. 
+As part of the project you will learn the organization the
+ of the Bash utilities utilities and solidify knowledge of structured programming.
